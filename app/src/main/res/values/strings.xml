@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lumina</string>
+    <string name="accessibility_service_description">Lumina helps visually impaired users by describing the environment and performing actions.</string>
+</resources>
